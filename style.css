@@ -1,0 +1,29 @@
+.container{
+    margin-bottom: 50px;
+    width: 70%;
+}
+.navbar{
+    border-radius: 10px;
+}
+.bagroundcolor{
+    border-radius: 10px;
+    background-color: #fceae8;
+}
+.col-md-5{
+    float: right;
+}
+.col-md-7{
+    float: left;
+}
+.button_buy{
+background-image: linear-gradient(to bottom, red 0%,
+pink 100%);
+border: none;
+border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px;
+}
+.price{
+    color: purple;
+}
