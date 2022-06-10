@@ -16,14 +16,49 @@
     float: left;
 }
 .button_buy{
-background-image: linear-gradient(to bottom, red 0%,
-pink 100%);
+background-image: linear-gradient(to bottom, rgb(0, 255, 242) 0%,
+rgb(8, 106, 187) 100%);
 border: none;
-border-radius: 10px;
+border-radius: 7px;
+width: 100px;
+height: 35px;
+color: white;
 }
 .carousel-item{
     padding: 20px;
 }
 .price{
     color: purple;
+}
+.col-md-4{
+    float: right;
+}
+.cat1{
+background-color: yellow;
+padding: 0px 10px 0px 30px;
+border-radius: 20px;
+color: white;
+}
+.cat2{
+    background-color: pink;
+    padding: 0px 10px 0px 30px;
+    border-radius: 20px;
+    color: white;
+}
+.cat3{
+    background-color: orange;
+    padding: 0px 10px 0px 33px;
+    border-radius: 20px;
+    color: white;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.card{
+    border: none;
+    
+}
+.size{
+    padding: 20px;
 }
